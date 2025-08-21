@@ -11,4 +11,4 @@ Visualizes sensor data and prediction results
 
 
 ![Dashboard](pdm dashboard image.png)
-<img src="dashboard.png" width="600">
+<img src="pdm dashboard image.png" width="600">
