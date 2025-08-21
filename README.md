@@ -6,3 +6,9 @@ Visualizes sensor data and prediction results
 - Trained ML model (`pdm_model.pkl`) for failure prediction
 - Interactive dashboard built with Flask
 - Uses sample dataset (`sensor_data.csv`)
+
+
+
+
+![Dashboard](pdm dashboard image.png)
+<img src="dashboard.png" width="600">
